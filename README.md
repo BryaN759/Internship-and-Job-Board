@@ -1,1 +1,1 @@
-# Internship-and-Job-Board
+WEb app for an Internship and Job board projefct
