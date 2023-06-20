@@ -1,1 +1,1 @@
-WEb app for an Internship and Job board projefct
+Web app for an Internship and Job board project
